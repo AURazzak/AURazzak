@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📫 How to reach me **ahmedurrajjak@gmail.com**
-
+- 📫 How to reach me Email: **ahmedurrajjak@gmail.com**
+                   Linkdlin: **https://www.linkedin.com/in/ahmed-ur-razzak-a7b447367/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ur-razzak-a7b447367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ur-razzak-a7b447367/" height="30" width="40" /></a>
